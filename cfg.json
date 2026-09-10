@@ -16,8 +16,8 @@
   },
   "update": {
     "enabled": true,
-    "minimum_version_code": 13,
-    "recommended_version_code": 13
+    "minimum_version_code": 12,
+    "recommended_version_code": 12
   },
   "review": {
     "prompt_stage_interval": 5,
