@@ -4,14 +4,41 @@
     "reward_ad_id": "6a88208b5c9b7478ba5bf140",
     "standard_banner_id": "6a8820bbaf056d371d5ba5b9",
     "interstitial_banner_id": "6a8820a5af056d371d5ba5b8",
-    "home_standard_banner_enabled": false,
-    "word_pick_gameplay_banner_enabled": false,
+    "home_standard_banner_enabled": true,
+    "word_pick_gameplay_banner_enabled": true,
     "lucky_wheel_banner_enabled": false,
-    "mode_selection_banner_enabled": false,
-    "lucky_wheel_interstitial_enabled": false,
+    "mode_selection_banner_enabled": true,
+    "lucky_wheel_interstitial_enabled": true,
     "leaderboard_interstitial_enabled": false,
-    "word_pick_interstitial_enabled": false,
-    "word_chain_interstitial_enabled": false,
-    "table_interstitial_enabled": false
-  }
+    "word_pick_interstitial_enabled": true,
+    "word_chain_interstitial_enabled": true,
+    "table_interstitial_enabled": true
+  },
+  "update": {
+    "enabled": true,
+    "minimum_version_code": 13,
+    "recommended_version_code": 13
+  },
+  "review": {
+    "prompt_stage_interval": 5,
+    "reward_coins": 50
+  },
+  "game_promotions": [
+    {
+      "id": "word-miner-promo",
+      "banner": "https://raw.githubusercontent.com/asmrdevelop/zino/refs/heads/main/word-miner-banner.jpg",
+      "title": "بازی جذاب ورد ماینر",
+      "description": "ذهنت رو با ساخت زنجیره‌های شگفت‌انگیز کلمات به چالش بکش!",
+      "link": "https://play.google.com/store/apps/details?id=co.newgates.wordminer",
+      "display_count": 3
+    },
+    {
+      "id": "brickstrike-promo",
+      "banner": "https://raw.githubusercontent.com/asmrdevelop/zino/refs/heads/main/brickstrike-banner.webp",
+      "title": "بازی جذاب بریک استرایک",
+      "description": "آجر هارو تخریب کن و با کمبو ستاره هاتو بدست بیار!",
+      "link": "https://play.google.com/store/apps/details?id=co.newgates.brickstrike&hl=en",
+      "display_count": 3
+    }
+  ]
 }
