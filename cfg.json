@@ -31,7 +31,16 @@
     "stage_interval": 3,
     "enabled": true
   },
-  "game_promotions": [],
+  "game_promotions": [
+    {
+      "id": "brickstrike-promo",
+      "banner": "https://raw.githubusercontent.com/asmrdevelop/zino/refs/heads/main/brickstrike-portrait.webp",
+      "title": "بازی جذاب بریک استرایک",
+      "description": "آجر هارو تخریب کن و با کمبو ستاره هاتو بدست بیار!",
+      "link": "https://play.google.com/store/apps/details?id=co.newgates.brickstrike&hl=en",
+      "display_count": 3
+    }
+  ],
   "economy": {
     "default_starting_coins": 100,
     "base_reveal_letter_cost": 30,
