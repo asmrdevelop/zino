@@ -1,10 +1,10 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "ads": {
     "reward_ad_id": "6a88208b5c9b7478ba5bf140",
     "standard_banner_id": "6a8820bbaf056d371d5ba5b9",
     "interstitial_banner_id": "6a8820a5af056d371d5ba5b8",
-    "rewarded_ad_coin_reward": 20,
+    "rewarded_ad_coin_reward": 15,
     "word_pick_interstitial_stage_interval": 3,
     "word_chain_interstitial_stage_interval": 3,
     "table_interstitial_stage_interval": 3,
