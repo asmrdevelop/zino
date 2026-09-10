@@ -26,7 +26,7 @@
   "game_promotions": [
     {
       "id": "word-miner-promo",
-      "banner": "https://raw.githubusercontent.com/asmrdevelop/zino/refs/heads/main/word-miner-banner.jpg",
+      "banner": "https://raw.githubusercontent.com/asmrdevelop/zino/refs/heads/main/word-miner-portrait.jpg",
       "title": "بازی جذاب ورد ماینر",
       "description": "ذهنت رو با ساخت زنجیره‌های شگفت‌انگیز کلمات به چالش بکش!",
       "link": "https://play.google.com/store/apps/details?id=co.newgates.wordminer",
@@ -34,7 +34,7 @@
     },
     {
       "id": "brickstrike-promo",
-      "banner": "https://raw.githubusercontent.com/asmrdevelop/zino/refs/heads/main/brickstrike-banner.webp",
+      "banner": "https://raw.githubusercontent.com/asmrdevelop/zino/refs/heads/main/brickstrike-portrait.webp",
       "title": "بازی جذاب بریک استرایک",
       "description": "آجر هارو تخریب کن و با کمبو ستاره هاتو بدست بیار!",
       "link": "https://play.google.com/store/apps/details?id=co.newgates.brickstrike&hl=en",
